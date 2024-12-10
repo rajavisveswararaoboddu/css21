@@ -19,7 +19,7 @@ body {
     position: sticky;
     top: 0px;
     z-index: 1;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
 }
 
 .nav img {
@@ -100,7 +100,7 @@ body {
     text-align: center;
     padding: 20px;
     background-color: #fff;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
 }
 .body
 {
@@ -199,6 +199,7 @@ body {
 
     .sp1 {
         width: 100%;
+        /* height: auto; */
     }
 
     #pmatter {
@@ -245,7 +246,7 @@ body {
 .matter
 {
    text-align: center;
-    border: 2pxsolid blue;
+    /* border: 2pxsolid blue; */
 }
 .matter h5 {
     font-size: 18px;
@@ -277,7 +278,7 @@ body {
     justify-content: center;
     gap: 20px;
     padding: 20px;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
 }
 
 .popularitem {
@@ -286,7 +287,7 @@ body {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     width: 300px;
     text-align: center;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
 }
 
 .popularitem .top-content {
@@ -340,7 +341,7 @@ body {
 .sectionh {
     text-align: center;
     padding: 20px;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
 }
 
 .sectionh h6 {
@@ -362,7 +363,7 @@ body {
     justify-content: center;
     gap: 20px;
     padding: 20px;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
 }
 
 .pic1, .pic2, .pic3 {
@@ -405,7 +406,7 @@ body {
     }
 
     .sliderpics .pic1, .sliderpics .pic2, .sliderpics .pic3 {
-        max-width: 48%; /* Two columns */
+        max-width: 48%;
     }
 
     .down-content h4 {
@@ -421,11 +422,11 @@ body {
     .sliderpics {
         flex-wrap: wrap;
         gap: 20px;
-        border: 2px solid blue;
+        /* border: 2px solid blue; */
     }
 
     .sliderpics .pic1, .sliderpics .pic2, .sliderpics .pic3 {
-        max-width: 30%; /* Three columns */
+        max-width: 30%;
     }
 
     .down-content h4 {
@@ -467,7 +468,7 @@ color: #007BFF;
 {
    text-align: center; 
    width: 99vw;
-   border: 2px solid blue;   
+   /* border: 2px solid blue;    */
 }
 .l2 .l123 span
 {
@@ -486,7 +487,7 @@ color: #007BFF;
     gap: 1px; 
     padding: 10px;
     justify-content: space-around;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
 }
 
 .l2-2 {
@@ -624,5 +625,5 @@ footer
     color: #f5f5f5;
     padding: 1vh;
     text-align: center;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
 }
